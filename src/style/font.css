@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('../assets/font/Arial.ttf');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'HanHei-SC-bold';
+    src: url('../assets/font/HanHei-SC-bold.ttf');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TrajanPro-Bold';
+    src: url('../assets/font/TrajanPro-Bold.otf');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FranklinGothic-Demi';
+    src: url('../assets/font/FranklinGothic-Demi.otf');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FZLTCHJT';
+    src: url('../assets/font/FZLTCHJT.TTF');
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FZLTZHJT';
+    src: url('../assets/font/FZLTZHJT.TTF');
+    font-style: normal;
+    font-display: swap;
+}
